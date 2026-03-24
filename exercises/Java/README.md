@@ -1,31 +1,100 @@
-<h1 align="center">Exercícios para aprender POO com linguagem JAVA</h1>
+# ☕ Exercícios em Java
 
-<div align="center">
-  <strong>🚀 Exemplos de desafios e atividades para praticar a linguagem e Java e Programação Orientada a Objetos 📚</strong>
-</div>
+Esta pasta contém exercícios desenvolvidos em Java, organizados por nível de complexidade, com foco em lógica de programação e Programação Orientada a Objetos (POO).
 
-<div align="center">
-  <p>Um repositório com ideias de exercícios para praticar Java e Programação Orientada a Objetos! 🎉</p>
-  <p>Aqui você encontrará informações de cada exercícios, a visão/proposta geral desse repositório e muito mais.</p>
-  <p>Explore, colabore e divirta-se! 😄</p>
-</div>
+📍 Localização no projeto:
 
-## 📖 Índice
+```bash
+logic/
+└── exercises/
+    └── Java/
+````
 
-- [Visão Geral](#visão-geral)
-- [Licença](#licença)
+---
 
-## 🔭 Visão Geral
+## 🧠 Objetivo
 
-Esse repositório foi criado com o objetivo de ajudar outras pessoas que desejam praticar seus conhecimentos iniciais em Programação Orientada a Objetos e fixar a sintaxe de Java.
+* Praticar a sintaxe da linguagem Java
+* Desenvolver raciocínio lógico
+* Aprender e aplicar conceitos de Programação Orientada a Objetos
+* Evoluir do nível básico ao intermediário
 
+---
 
-Além de servir de repositório para os exercícios que já realizei a partir de alguns cursos.
+## 📂 Estrutura
 
+Os exercícios estão organizados por nível:
 
-Aqui terá a descrição de cada questão, e a resolução estará nesse repositório referente ao numero do exercício, todas em Java, uma das linguagens mais utilizadas no mundo.
+```bash
+Java/
+├── Basico/
+├── Intermediario/
+└── README.md
+```
 
-## 📄 Licença
+---
 
-Este projeto está licenciado sob a [MIT LICENSE]. Consulte o arquivo [LICENSE](LICENSE) para obter mais informações sobre os termos de licenciamento.
+## 🧩 Tipos de Exercícios
 
+### 🔹 Básico
+
+* Entrada e saída de dados
+* Operações matemáticas
+* Estruturas condicionais (`if`, `else`)
+* Laços de repetição (`for`, `while`)
+* Manipulação de variáveis
+
+---
+
+### 🔹 Intermediário
+
+* Programação Orientada a Objetos (POO)
+* Criação de classes e objetos
+* Encapsulamento
+* Organização em pacotes
+* Estruturação de projetos Java
+
+---
+
+## 📊 Organização dos Arquivos
+
+* Cada pasta representa um exercício
+* Separação entre código fonte (`src`) e compilado (`out`)
+* Uso de pacotes para organização
+* Estrutura baseada em projetos Java reais
+
+---
+
+## 📌 Observações
+
+* Exercícios desenvolvidos com fins educacionais
+* Alguns projetos seguem padrões de cursos (ex: DIO)
+* Evolução progressiva do básico ao uso de POO
+
+---
+
+## ▶️ Como Executar
+
+### 🔹 Compilar
+
+```bash
+javac NomeDoArquivo.java
+```
+
+---
+
+### 🔹 Executar
+
+```bash
+java NomeDoArquivo
+```
+
+> Certifique-se de que o nome da classe seja igual ao nome do arquivo.
+
+---
+
+## ⚙️ Requisitos
+
+* JDK instalado (Java Development Kit)
+
+```

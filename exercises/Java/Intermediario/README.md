@@ -1,29 +1,175 @@
-<h1 align="center">Exercícios para aprender POO com linguagem JAVA</h1>
+# ☕ Java Intermediário (POO)
 
-<div align="center">
-  <strong>🚀 Exemplos de desafios e atividades para que utilizei para praticar a linguagem e Java através da plataforma DIO 📚</strong>
-</div>
+Esta pasta contém exercícios em Java com foco em Programação Orientada a Objetos (POO), explorando modelagem, organização de código e boas práticas.
 
-<div align="center">
-  <p>Explore, colabore e divirta-se! 😄</p>
-</div>
+📍 Localização no projeto:
 
-## 📖 Índice
+```bash
+logic/
+└── exercises/
+    └── Java/
+        └── Intermediario/
+````
 
-- [Exercícios](#exercicios)
+---
 
-## 💻 Exercicios
+## 🧠 Objetivo
 
-- <strong>E01 - Informações de Conta bancária no terminal: </strong> Esse exercício é com base no desafio da DIO - [Repositorio](https://github.com/digitalinnovationone/trilha-java-basico.git): desafios/sintaxe
+* Aplicar conceitos de Programação Orientada a Objetos
+* Modelar problemas do mundo real em código
+* Melhorar a organização e estrutura de projetos Java
+* Consolidar boas práticas de desenvolvimento
 
-- <strong>E02 - Controle de Fluxo: </strong> Esse exercício é com base no desafio da DIO - [Repositorio](https://github.com/digitalinnovationone/trilha-java-basico.git): desafios/controle-fluxo
+---
 
-- <strong>E03 - UML Iphone: </strong> Esse exercício foi sugerido para que fizesse uma representação simples com UML e sua aplicação em Java a fim de fixar conhecimentos.
+## 📂 Estrutura
 
-- <strong>E04 - Banco Digital Com POO: </strong> Esse exercício é com base no desafio da DIO - [Repositorio](https://github.com/falvojr/lab-banco-digital-oo). Desafio: Considerando nosso conhecimento no domínio bancário, iremos abstrair uma solução Orientada a Objetos em Java. Para isso, vamos interpretar o seguinte cenário: “Um banco oferece aos seus clientes dois tipos de contas (corrente e poupança), as quais possuem as funcionalidades de depósito, saque e transferência (entre contas da própria instituição).” <br>
-Melhorias Implementadas: <br>
-Aplicação do **Lombok** para reduzir verbosidade nas classes `Cliente`, `Conta` e `Banco`. <br>
-Adição do atributo `cpf` em `Cliente` para enriquecer o modelo.<br>
-Refatoração leve no código existente para aderir melhor aos princípios de POO.<br>
+```bash
+Intermediario/
+├── e01_ContaTerminalDIO/
+├── e02_ControleFluxoDIO/
+├── e03_UMLIphone/
+├── e04_BancoDigital/
+├── Sudoku/
+└── README.md
+```
 
-- <strong>Sudoku: </strong> Esse exercício é com base no desafio da DIO - [Repositorio](https://github.com/digitalinnovationone/sudoku). Este projeto é uma cópia desenvolvida com o propósito de aprendizado, baseada no desafio proposto pelo professor para implementação de um jogo de Sudoku. O desenvolvimento acompanhou de perto as aulas e foi fundamentado no repositório oficial da Digital Innovation One. O código implementa as funcionalidades básicas do jogo de Sudoku, respeitando o desafio e requisitos definidos, e inclui um menu interativo para controle do jogo. Todos os créditos ao professor e à equipe da DIO pela estruturação e disponibilização do desafio e material.
+---
+
+## 🧩 Conceitos Trabalhados
+
+Os exercícios desta pasta envolvem:
+
+* Classes e objetos
+* Encapsulamento
+* Abstração
+* Organização em pacotes
+* Reutilização de código
+* Introdução a padrões de projeto
+* Modelagem baseada em UML
+
+---
+
+## 📘 Exercícios
+
+### 🔹 e01_ContaTerminalDIO
+
+**Descrição:**
+Simulação de criação de conta bancária via terminal, baseada em desafio da DIO.
+
+**Foco:**
+
+* Entrada de dados
+* Estrutura básica de classes
+* Interação com usuário
+
+---
+
+### 🔹 e02_ControleFluxoDIO
+
+**Descrição:**
+Implementação de controle de fluxo com validações e possíveis exceções.
+
+**Foco:**
+
+* Estruturas condicionais
+* Fluxo de execução
+* Validação de dados
+
+---
+
+### 🔹 e03_UMLIphone
+
+**Descrição:**
+Modelagem de um sistema inspirado em funcionalidades de um iPhone, utilizando UML e sua aplicação em Java.
+
+**Foco:**
+
+* Interfaces
+* Abstração
+* Organização de responsabilidades
+
+---
+
+### 🔹 e04_BancoDigital
+
+**Descrição:**
+Implementação de um sistema bancário orientado a objetos com contas corrente e poupança, incluindo operações de depósito, saque e transferência.
+
+**Base:**
+Desafio da DIO adaptado e evoluído.
+
+**Melhorias implementadas:**
+
+* Uso de **Lombok** para redução de código boilerplate
+* Inclusão de atributo `cpf` na entidade `Cliente`
+* Melhor organização das classes
+* Ajustes para maior aderência aos princípios de POO
+
+**Foco:**
+
+* Encapsulamento
+* Modelagem de domínio
+* Regras de negócio
+
+---
+
+### 🔹 Sudoku
+
+**Descrição:**
+Implementação de um jogo de Sudoku baseado em desafio da DIO, com funcionalidades completas e interação via terminal.
+
+**Foco:**
+
+* Lógica mais avançada
+* Estruturação de projeto
+* Controle de estado
+* Interatividade
+
+**Observação:**
+Projeto desenvolvido com fins educacionais, baseado no material da DIO.
+
+---
+
+## 📊 Organização dos Arquivos
+
+* Cada pasta representa um projeto ou exercício
+* Separação por contexto e complexidade
+* Uso de pacotes para organização
+* Estrutura próxima de projetos reais
+
+---
+
+## 📌 Observações
+
+* Exercícios baseados em desafios da plataforma DIO
+* Foco em evolução do conhecimento em POO
+* Código progressivamente mais estruturado e modular
+
+---
+
+## ▶️ Como Executar
+
+### 🔹 Compilar
+
+```bash
+javac NomeDoArquivo.java
+```
+
+---
+
+### 🔹 Executar
+
+```bash
+java NomeDoArquivo
+```
+
+> Certifique-se de que o nome da classe seja igual ao nome do arquivo.
+
+---
+
+## ⚙️ Requisitos
+
+* JDK instalado (Java Development Kit)
+
+```

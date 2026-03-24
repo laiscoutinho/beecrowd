@@ -1,28 +1,131 @@
-# 🎯 Beecrowd Solutions Repository
+# 🎯 Beecrowd Challenges
 
-Bem-vindo(a) ao repositório de soluções da plataforma [Beecrowd](https://www.beecrowd.com.br) 🚀! O Beecrowd, anteriormente conhecido como **URI Online Judge**, é uma plataforma amplamente utilizada por programadores de todo o mundo para praticar e competir em **programação competitiva**. A mudança de nome reflete o crescimento da comunidade e o foco em engajar ainda mais pessoas na jornada de resolver problemas algorítmicos e melhorar suas habilidades lógicas.
+Esta pasta contém soluções de desafios da plataforma Beecrowd, focadas no desenvolvimento de lógica de programação e resolução de problemas algorítmicos.
 
-Este repositório contém uma série de exercícios resolvidos em **Java**, **Python** e **C**. O foco é compartilhar conhecimento, ajudar no desenvolvimento lógico e incentivar a **comunidade de programação competitiva** a crescer e se fortalecer 💪.
+📍 Localização no projeto:
 
-## 🔍 Objetivo
+```bash
+logic/
+└── challenges/
+    └── beecrowd/
+````
 
-O principal objetivo deste repositório é:
+---
 
-- **Ajudar a desenvolver suas habilidades de lógica** 🧠, oferecendo soluções comentadas de problemas do Beecrowd.
-- **Facilitar o aprendizado** através da troca de experiências e boas práticas de programação.
-- **Difundir a programação competitiva** e promover o espírito de resolução de problemas de forma colaborativa 🌐.
+## 🧠 Objetivo
 
-Se você está começando a explorar algoritmos, estrutura de dados ou se preparando para competições de programação, esse repositório é pra você! 🎓
+* Desenvolver raciocínio lógico através de problemas reais
+* Praticar algoritmos e estruturas básicas
+* Resolver desafios de programação competitiva
+* Consolidar conhecimento em múltiplas linguagens
 
-## 🛠️ Linguagens Utilizadas e Suas Vantagens
+---
 
-Este repositório foca em três linguagens principais, cada uma com suas características e vantagens para a resolução de problemas:
+## 📂 Estrutura
 
-- **Java**: Ideal para quem deseja entender profundamente estruturas de dados e algoritmos. Com a robustez da linguagem e o suporte a **orientação a objetos**, **Java** é uma excelente escolha para resolver problemas mais complexos, além de ser amplamente utilizada em competições de programação.
+Os problemas estão organizados por linguagem:
 
-- **Python**: Se você busca rapidez na implementação e uma sintaxe simples e clara, **Python** é a escolha certa 🐍. Conhecida por sua agilidade no desenvolvimento, **Python** permite focar na lógica do problema, em vez de detalhes de implementação. Embora seja uma linguagem interpretada e possa ser mais lenta que C ou Java em alguns casos, sua simplicidade a torna excelente para prototipar e resolver problemas rapidamente.
+```bash
+beecrowd/
+├── C/
+├── Java/
+├── Python/
+├── SQL/
+└── README.md
+```
 
-- **C**: Para quem busca **alta performance** e eficiência, **C** é a melhor escolha. Por ser uma linguagem de baixo nível, ela permite otimizações finas e controle direto sobre a memória, o que a torna ideal para problemas que requerem um uso eficiente de recursos. Apesar de exigir mais cuidado no código, o desempenho que pode ser alcançado com **C** é incomparável.
+---
+
+## 🧩 Tipos de Problemas
+
+Os desafios incluem:
+
+* Entrada e saída de dados
+* Operações matemáticas
+* Estruturas condicionais
+* Laços de repetição
+* Manipulação de arrays e strings
+* Problemas matemáticos e geométricos
+* Consultas em banco de dados (SQL)
+
+---
+
+## 💻 Linguagens Utilizadas
+
+### 🔹 C
+
+Foco em performance e controle de memória.
+
+### 🔹 Java
+
+Uso de orientação a objetos e estrutura mais robusta.
+
+### 🔹 Python
+
+Implementações rápidas e foco na lógica.
+
+### 🔹 SQL
+
+Consultas e manipulação de dados em banco.
+
+---
+
+## 📊 Organização dos Arquivos
+
+* Nomeados com ID do problema + descrição
+* Separados por linguagem
+* Cada arquivo representa uma solução individual
+
+---
+
+## 📌 Observações
+
+* Problemas retirados da plataforma Beecrowd
+* Alguns exercícios possuem versões em múltiplas linguagens
+* Foco em aprendizado progressivo e prática contínua
+
+---
+
+## 🔗 Plataforma
+
+Acesse: [https://www.beecrowd.com.br](https://www.beecrowd.com.br)
+
+---
+
+## ▶️ Como Executar
+
+### 🔹 C
+
+```bash
+gcc arquivo.c -o programa
+./programa
+```
+
+---
+
+### 🔹 Java
+
+```bash
+javac NomeDoArquivo.java
+java NomeDoArquivo
+```
+
+---
+
+### 🔹 Python
+
+```bash
+python arquivo.py
+```
+
+---
+
+### 🔹 SQL
+
+```bash
+sqlite3 banco.db
+.read arquivo.sql
+```
 
 ## 🤝 Comunidade
 
