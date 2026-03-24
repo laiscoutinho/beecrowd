@@ -1,0 +1,20 @@
+#include <stdio.h>
+
+int potencia(int numero,int expoente);
+
+int main(void) {
+  int x,n;
+  scanf("%d",&x);
+  scanf("%d",&n);
+  printf("%d",potencia(x,n));
+  return 0;
+}
+int potencia(int numero, int expoente){
+  int n;
+  if (expoente==0) return 1;
+  if (expoente==1) return numero;
+  else{
+    return numero * potencia(numero,expoente-1);
+  }
+  
+}

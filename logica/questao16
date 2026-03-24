@@ -1,0 +1,64 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+// matriz identidade
+// diagonal principal é igual a 111111 e demais elementos da matriz são zeros
+
+//função para imprimir a matriz
+  void imprimir(int **matriz, int n) {
+    for (int i = 0; i < n; i++) {
+      for (int j = 0; j < n; j++) {
+        printf("%d ",matriz[i][j]);
+      }
+      printf("\n");
+    }
+  }
+
+//povoando=percorrendo
+  void povoar_matriz(int **matriz,int n){
+    for (int i = 0; i < n; i++) {
+      for (int j = 0; j < n; j++) {
+        if (i == j){
+          matriz[i][j] = 1;
+        }else{
+          matriz[i][j] = 0;
+        }
+     }
+    }
+  }
+  
+//desalocando a alocação dinamica
+ void desalocar(int **matriz,int n){
+    for (int i = 0; i < n; i++) {
+      free(matriz[i]); //desalocando
+    }
+    free(matriz);
+  }
+
+
+//FUNÇÃO MAIN
+  int main(void) {
+  int **matriz,n;
+     scanf("%d", &n); //recebendo o tamanho do usuario
+     if (n == 0){
+       printf("Vazia");
+      return 0;
+    }
+    else{
+      //fazendo a alocação
+      matriz = (int **)malloc(n * sizeof(int *));
+      for (int i = 0; i < n; i++) {
+           matriz[i] = (int *)malloc(n * sizeof(int));
+
+        for(int i=0;i<n; i++){
+          for(int j=0; j<n; j++){
+            scanf("%d",&matriz[i][j]);
+          }
+        }
+      }
+    }
+    povoar_matriz(matriz,n);
+    imprimir(matriz, n);
+    desalocar(matriz,n);
+    return 0;
+  }

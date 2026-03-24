@@ -1,0 +1,15 @@
+#include <stdio.h>
+
+int main(void) {
+  int m,n;
+  scanf("%d",&m);
+  scanf("%d",&n);
+  printf("%d",mdc(m,n));
+  return 0;
+}
+
+int mdc(int a, int b){
+  if(b==0) return a;
+  if(b>0) return mdc(b,a%b);
+  if(b>a) return mdc(b,a);
+}

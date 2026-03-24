@@ -1,0 +1,35 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void) {
+  int n;
+  scanf("%d",&n);
+  int *vetor,*vetor2;
+  //pedir memoria
+  vetor=(int *)malloc(n*sizeof(int));
+  vetor2=(int *)malloc(n*sizeof(int));
+  //preencher os vetores
+  for(int i=0;i<n;i++){
+    scanf("%d",&vetor[i]);
+  }
+  for(int i=0;i<n;i++){
+    vetor2[i]=vetor[(n-1)-i];
+  }
+  //imprimir os vetores
+  printf("Original=[");  
+  for(int i=0;i<n;i++){
+    if(i==n-1) printf("%d",vetor[i]);
+    else printf("%d,",vetor[i]);
+  }
+  printf("]\n");
+  printf("Invertido=[");
+  for(int i=0;i<n;i++){
+    if(i==n-1) printf("%d",vetor2[i]);
+    else printf("%d,",vetor2[i]);
+  }
+  printf("]\n");
+  //esvaziar a memoria
+  free(vetor);
+  free(vetor2);
+  return 0;
+}

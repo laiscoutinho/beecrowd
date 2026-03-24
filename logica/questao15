@@ -1,0 +1,59 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+
+void preencher_mat(int **matriz,int n){
+  for(int i=0;i<n;i++){
+    for(int j=0;j<n;j++){
+      scanf("%d",&matriz[i][j]);
+    }
+  }
+  printf("\n");
+}
+
+void multi_matriz(int **matriz,int n,int multi){
+  for(int i=0;i<n;i++){
+    printf("\n");
+    for(int j=0;j<n;j++){
+      printf("%d ",matriz[i][j]);
+    }  
+  }
+  printf("\n");
+  //multiplica a diagonal principal
+  if(n==0) multi=0;
+  else{
+      for(int i=0;i<n;i++){
+          for(int j=0;j<n;j++){
+            if(i==j){
+              multi=multi*matriz[i][j];
+            }
+          }
+        }
+  }
+//imprimir multiplicação
+  printf("%d",multi);
+}
+
+// FUNÇAO MAIN
+int main(void) {
+  int n,multi=1;
+  int **matriz; //vetor para vetor tem 2 **//
+  //pede pro usuario//
+  scanf("%d",&n);
+  
+  //pede a memoria da linha
+  matriz = (int **)malloc(n*sizeof(int*));
+  //pede a memoria da coluna
+  for(int i=0;i<n;i++){
+    matriz[i] = (int *)malloc(n*sizeof(int));
+  }
+  preencher_mat(matriz,n);
+  multi_matriz(matriz,n,multi);
+  for(int i=0;i<n;i++){
+    //primeiro as colunas
+    free(matriz[i]);
+  }
+  //depois as linhas
+  free(matriz);
+  return 0;
+}

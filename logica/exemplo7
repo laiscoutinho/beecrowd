@@ -1,0 +1,40 @@
+#include <stdio.h>
+#define linha 2
+#define coluna 3
+
+
+void trans(int m[linha][coluna],int mt[coluna][linha]){
+  for(int i=0;i<linha;i++){
+      for(int j=0;j<coluna;j++){
+      mt[j][i] = m[i][j];
+    }
+  }
+  for(int j=0;j<coluna;j++){
+    printf("\n");
+    for(int i=0;i<linha;i++){
+      printf("%d ", mt[j][i]);
+    }
+  }
+  
+}
+
+int main(void) {
+  int matriz[linha][coluna];
+  int transposta[coluna][linha];
+
+  for(int i=0;i<linha;i++){
+    for(int j=0;j<coluna;j++){
+      scanf("%d",&matriz[i][j]);
+    }
+  }
+  //exibir normal
+  for(int i=0;i<linha;i++){
+    printf("\n");
+    for(int j=0;j<coluna;j++){
+      printf("%d ",matriz[i][j]);
+    }
+  }
+  printf("\n");
+  trans(matriz,transposta);
+  return 0;
+}
