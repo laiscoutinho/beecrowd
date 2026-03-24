@@ -1,0 +1,2 @@
+SELECT count(distinct city) as count
+FROM customers;
