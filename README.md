@@ -1,93 +1,179 @@
-# 🚀 Desafios & Exercícios de Programação
+# 🚀 Logic Repository
 
-Repositório centralizado para organização de exercícios, desafios e práticas de lógica e backend utilizando diferentes linguagens.
-
----
-
-## 📌 Objetivo
-
-Consolidar estudos práticos em programação, com foco em:
-
-* Desenvolvimento de lógica
-* Resolução de problemas
-* Preparação para entrevistas técnicas
-* Evolução consistente em múltiplas linguagens
+Repositório dedicado à organização e prática contínua de lógica de programação, estruturas básicas e resolução de problemas utilizando diferentes linguagens de backend.
 
 ---
 
-## 🧠 Conteúdos
-
-Este repositório reúne exercícios e desafios de plataformas como:
-
-* Beecrowd
-* LeetCode
-
----
-
-## 💻 Linguagens utilizadas
-
-* C
-* Java
-* Python
-
----
-
-## 📂 Estrutura do projeto
+## 📂 Estrutura do Projeto
 
 ```bash
-beecrowd/
- ├── logica/        # Exercícios de lógica de programação
- ├── java/          # Desafios resolvidos em Java
- ├── python/        # Exercícios e scripts em Python
- └── c/             # Implementações em C
+.
+├── exercises/
+├── challenges/
+└── README.md
 ```
 
 ---
 
-## ⚙️ Organização
+## 🧠 Objetivo
 
-Os exercícios estão organizados por:
+Este repositório tem como foco:
 
-* Linguagem
-* Plataforma (quando aplicável)
-* Nível de dificuldade (quando definido)
-
----
-
-## 📈 Evolução
-
-Este repositório é atualizado continuamente com novos desafios e melhorias nas soluções já existentes, priorizando:
-
-* Código limpo
-* Boas práticas
-* Otimização de soluções
+* Desenvolver raciocínio lógico
+* Praticar fundamentos de programação
+* Resolver problemas clássicos e desafios reais
+* Consolidar conhecimento em múltiplas linguagens
 
 ---
 
-## 🎯 Foco
+## 📘 Exercises
 
-* Estrutura de dados e algoritmos
-* Lógica de programação
-* Fundamentos de backend
+Contém exercícios gerais organizados por linguagem.
+
+```bash
+exercises/
+├── C/
+└── Java/
+```
+
+### 🔹 Organização
+
+Dentro de cada linguagem:
+
+* Cada pasta representa um exercício
+* Inclui descrição do problema
+* Implementação da solução
+* (Opcional) comentários explicativos
 
 ---
 
-## 🧩 Diferencial
+## 🧩 Challenges
 
-* Centralização de múltiplas linguagens em um único repositório
-* Histórico de evolução contínua
-* Organização pensada para portfólio técnico
+Contém desafios de plataformas externas.
+
+```bash
+challenges/
+├── beecrowd/
+└── leetcode/
+```
+
+### 🔹 Organização
+
+Dentro de cada plataforma:
+
+* Problemas organizados por ID ou nome
+* Soluções separadas por linguagem
+* Índice com lista dos desafios resolvidos
 
 ---
 
-## 📬 Contato
+## 📊 Progresso
 
-Caso queira trocar ideias ou colaborar, fique à vontade para entrar em contato.
+| Plataforma | Status       |
+| ---------- | ------------ |
+| Beecrowd   | Em andamento |
+| LeetCode   | Em andamento |
 
 ---
 
-Se quiser dar um upgrade depois, posso:
 
-* adicionar badges (status, linguagens, etc.)
-* deixar no padrão de portfólio pra recrutador
-* ou adaptar pra README “nível GitHub destaque” (bem chamativo)
+## 📌 Padrões Adotados
+
+* Nomeação descritiva de arquivos e pastas
+* Separação por linguagem
+* Organização por tipo de problema
+* Código limpo e legível
+
+---
+
+## 🎯 Próximos Passos
+
+* Adicionar README em cada subpasta
+* Criar índice automatizado de problemas
+* Incluir explicações das soluções
+* Melhorar padronização dos exercícios
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+* C
+* Java
+* Python
+* SQL
+
+---
+
+## ▶️ Como Executar os Arquivos
+
+### 🔹 C
+
+Compile e execute usando `gcc`:
+
+```bash
+gcc arquivo.c -o programa
+./programa
+```
+
+---
+
+### 🔹 Java
+
+Compile e execute:
+
+```bash
+javac NomeDoArquivo.java
+java NomeDoArquivo
+```
+
+> Certifique-se de que o nome da classe seja igual ao nome do arquivo.
+
+---
+
+### 🔹 Python
+
+Execute diretamente com:
+
+```bash
+python arquivo.py
+```
+
+ou
+
+```bash
+python3 arquivo.py
+```
+
+---
+
+### 🔹 SQL
+
+Execute utilizando um banco de dados (ex: SQLite, MySQL ou PostgreSQL).
+
+#### Exemplo com SQLite:
+
+```bash
+sqlite3 banco.db
+.read arquivo.sql
+```
+
+---
+
+## ⚙️ Requisitos
+
+* GCC (para C)
+* JDK (para Java)
+* Python 3+
+* SQLite ou outro SGBD
+
+---
+
+## 💡 Observações
+
+* Todos os códigos foram desenvolvidos para fins educacionais
+* Alguns problemas podem exigir entrada via terminal
+* Recomenda-se executar os arquivos dentro de suas respectivas pastas
+
+## 📄 Licença
+
+Este projeto está sob a licença MIT.

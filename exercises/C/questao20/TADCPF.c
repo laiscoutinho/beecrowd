@@ -1,4 +1,4 @@
-#include "TADcpf.h"
+#include "TADCPF.h"
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -20,15 +20,15 @@ void limparBuffer(){
 
 void ler_cpf(pCPF numero){
   if(numero != NULL){
-    scanf("%11s",numero->cpf);
+    scanf("%11s", numero->cpf);
     limparBuffer();
   }
 }
 
 void exibir_cpf(pCPF numero){
    if(numero != NULL){
-     for(int i=0;i<11;i++){
-       printf("%c",numero->cpf[i]);
+     for(int i=0; i<11; i++){
+       printf("%c", numero->cpf[i]);
        if(i == 2 || i == 5) printf(".");
        if(i == 8) printf("-");
      }
@@ -40,6 +40,7 @@ void validar_cpf(pCPF numero){
   int r=0,v1=0,m=1,s=0;
   int v2=0;
   int inteiro[11];
+
   //converter char apara int
   for(int i=0;i<11;i++){
     inteiro[i]=numero->cpf[i] - '0';
@@ -54,6 +55,7 @@ void validar_cpf(pCPF numero){
   r=s%11;
   if(r<=11) v1=11-r;
   else v1=r-11;
+
   if(v1>=10) v1=0;
   if(inteiro[9] == v1){
     //2 numero

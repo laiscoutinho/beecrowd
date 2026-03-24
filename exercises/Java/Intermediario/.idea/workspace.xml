@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eb2a7fd1-e0e0-4ca1-9575-f3e4393513f5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/exemplo1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/exemplo2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/exemplo3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/exemplo4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/exemplo5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/exemplo6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/exemplo7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/exemplo8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/exemplo9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/exercisesC/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/exercisesC/exemplo1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/exercisesC/exemplo2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/exercisesC/exemplo3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/exercisesC/exemplo4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/exercisesC/exemplo5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/exercisesC/exemplo6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/exercisesC/exemplo7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/exercisesC/exemplo8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/exercisesC/exemplo9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/exercisesC/questao10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/exercisesC/questao11" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/exercisesC/questao12" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/exercisesC/questao13" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/exercisesC/questao14" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/exercisesC/questao15" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/exercisesC/questao16" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/exercisesC/questao17" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/exercisesC/questao18" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/exercisesC/questao19/TADLivro.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/exercisesC/questao19/TADLivro.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/exercisesC/questao19/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/exercisesC/questao20/TADCPF.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/exercisesC/questao20/TADCPF.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/exercisesC/questao20/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/questao10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/questao11" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/questao12" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/questao13" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/questao14" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/questao15" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/questao16" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/questao17" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/questao18" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/questao19/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../C/questao19/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/questao20/TADCPF.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../C/questao20/TADCPF.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/questao20/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../C/questao20/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.lock_info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.mylyn/.taskListIndex/segments_1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.mylyn/.taskListIndex/write.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.mylyn/repositories.xml.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.mylyn/tasks.xml.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.buildship.core/gradle/versions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/.org.eclipse.egit.core.cmp/.location" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/history.version" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.version" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.root/2.tree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ant.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.m2e.discovery.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.context.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.monitor.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.tasks.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.browser.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.egit.core/.org.eclipse.egit.core.cmp/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.egit.core/.org.eclipse.egit.core.cmp/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/assumedExternalFilesCache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/javaLikeNames.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.launching/.install.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.launching/libraryInfos.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/workspaceState.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.logback/0.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.0.20241001-1350.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.mylyn.github.ui/avatars.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.oomph.setup.ui/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.oomph.setup.ui/restarting" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.tips.ide/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.intro/introstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/version.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/BasicAccount/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/BasicAccount/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/BasicAccount/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/BasicAccount/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/BasicAccount/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/BasicAccount/src/application/Program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/BasicAccount/src/entities/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/BasicAccount/src/model/exception/DomainException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/BasicAccount/src/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/Basico/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/Basico/e01_Calculator/Calculator" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/Basico/e03_Area/bin/aplication/Exercicie02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/Basico/e03_Area/bin/entities/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/Basico/e03_Area/bin/module-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/Basico/e03_Area/src/aplication/Exercicie02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/Basico/e03_Area/src/entities/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/Basico/e03_Area/src/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/Basico/e03_Estoque/bin/aplication/Exercicio3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/Basico/e03_Estoque/bin/entities/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/Basico/e03_Estoque/bin/module-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/Basico/e03_Estoque/src/aplication/Exercicio3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/Basico/e03_Estoque/src/entities/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/Basico/e03_Estoque/src/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/Basico/e04_Funcionario/bin/aplication/Exercicio4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/Basico/e04_Funcionario/bin/entities/Funcionario.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/Basico/e04_Funcionario/bin/module-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/Basico/e04_Funcionario/src/aplication/Exercicio4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/Basico/e04_Funcionario/src/entities/Funcionario.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/Basico/e04_Funcionario/src/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/Basico/e05_NotaAluno/bin/aplication/Exercicio5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/Basico/e05_NotaAluno/bin/entities/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/Basico/e05_NotaAluno/bin/module-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/Basico/e05_NotaAluno/src/aplication/Exercicio5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/Basico/e05_NotaAluno/src/entities/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/Basico/e05_NotaAluno/src/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/Basico/e06_SimpleBanking/bin/aplication/Exercicie6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/Basico/e06_SimpleBanking/bin/entities/Bank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/Basico/e06_SimpleBanking/bin/module-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/Basico/e06_SimpleBanking/src/aplication/Exercicie6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/Basico/e06_SimpleBanking/src/entities/Bank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/Basico/e06_SimpleBanking/src/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/DIO/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/DIO/.idea/DIO.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/DIO/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/DIO/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/DIO/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/DIO/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/DIO/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/DIO/TestImplementsSingleton/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/DIO/TestImplementsSingleton/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/DIO/TestImplementsSingleton/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/DIO/TestImplementsSingleton/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/DIO/TestImplementsSingleton/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/DIO/TestImplementsSingleton/src/deisgnpattern/SingletonOtimiza.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/DIO/TestImplementsSingleton/src/deisgnpattern/SingletonSimple.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/DIO/TestImplementsSingleton/src/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/DIO/UMLIphone/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/DIO/UMLIphone/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/DIO/UMLIphone/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/DIO/UMLIphone/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/DIO/UMLIphone/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/DIO/UMLIphone/RepresentacaoUML/Captura de tela de 2025-05-29 11-01-43.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/DIO/UMLIphone/src/apps/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/DIO/UMLIphone/src/entities/Iphone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/DIO/UMLIphone/src/entities/Smarthphone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/DIO/UMLIphone/src/interfaces/AparelhoEletronico.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/DIO/UMLIphone/src/interfaces/NavegadorInternet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/DIO/UMLIphone/src/interfaces/ReprodutorMusical.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/DIO/UMLIphone/src/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/DIO/e08ControleFluxoDIO/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/DIO/e08ControleFluxoDIO/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/DIO/e08ControleFluxoDIO/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/DIO/e08ControleFluxoDIO/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/DIO/e08ControleFluxoDIO/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/DIO/e08ControleFluxoDIO/src/Contador/Contador.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/DIO/e08ControleFluxoDIO/src/Exceptions/ParametrosInvalidosException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/DIO/e08ControleFluxoDIO/src/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/DIO/e7ContaTerminalDIO/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/DIO/e7ContaTerminalDIO/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/DIO/e7ContaTerminalDIO/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/DIO/e7ContaTerminalDIO/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/DIO/e7ContaTerminalDIO/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/DIO/e7ContaTerminalDIO/src/e7ContaTerminalDIO/ContaTerminal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/DIO/e7ContaTerminalDIO/src/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/Order/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/Order/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/Order/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/Order/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/Order/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/Order/src/application/Program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/Order/src/entities/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/Order/src/entities/Order.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/Order/src/entities/OrderItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/Order/src/entities/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/Order/src/entities/enums/OrderStatus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/Order/src/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/PaymentEmployee/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/PaymentEmployee/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/PaymentEmployee/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/PaymentEmployee/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/PaymentEmployee/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/PaymentEmployee/src/application/Program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/PaymentEmployee/src/entitites/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/PaymentEmployee/src/entitites/OutsourceEmployee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/PaymentEmployee/src/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/Post/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/Post/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/Post/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/Post/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/Post/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/Post/src/application/Program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/Post/src/entities/Comment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/Post/src/entities/Post.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/Post/src/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/SalaryWorkerPeriod/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/SalaryWorkerPeriod/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/SalaryWorkerPeriod/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/SalaryWorkerPeriod/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/SalaryWorkerPeriod/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/SalaryWorkerPeriod/src/application/Program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/SalaryWorkerPeriod/src/entities/Departament.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/SalaryWorkerPeriod/src/entities/HourContract.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/SalaryWorkerPeriod/src/entities/Worker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/SalaryWorkerPeriod/src/entities/enums/WorkerLevel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo/SalaryWorkerPeriod/src/module-info.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "laiscoutinho"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/laiscoutinho/logic.git",
+    "accountId": "bf2334e6-ecb9-4c4e-8849-61742c0bc529"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="3BPG5jShfW6xX6Wlqjtqb2bmwqx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/laisdev/Documentos/projetos/logic/challenges/beecrowd/Java"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb2a7fd1-e0e0-4ca1-9575-f3e4393513f5" name="Changes" comment="" />
+      <created>1774383111036</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1774383111036</updated>
+    </task>
+    <servers />
+  </component>
+</project>
