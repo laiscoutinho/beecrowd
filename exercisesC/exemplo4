@@ -1,0 +1,37 @@
+#include <stdio.h>
+//a=maior
+//b=menor
+//c=media
+//d=total
+//volume nos dias=v[n]
+int main(void) {
+  int n;
+  scanf("%d",&n);
+  int a=0,b=0;
+  float v[n],c,d=0,maiorv,menorv;
+  
+  for(int i=0;i<n;i++){
+    scanf("%f",&v[i]);
+    if(i==0){
+      a=1;
+      b=1;
+      maiorv=v[i];
+      menorv=v[i]; }
+    else{
+      if(v[i]>maiorv){
+        a=i+1;
+        maiorv=v[i]; }
+      if(v[i]<menorv){
+        b=i+1;
+        menorv=v[i]; }
+    }
+    d+=v[i];
+    c=d/n;
+  }
+  printf("Dia com maior volume: %d\n",a);
+  printf("Dia com menor volume: %d\n",b);
+  printf("Volume medio: %.2f\n",c);
+  printf("Valor total : %.2f\n",d);
+
+  return 0;
+}

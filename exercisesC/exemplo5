@@ -1,0 +1,84 @@
+#include <stdio.h>
+#define horas 6
+#define dias 6
+
+int main(){
+    int i,j,dia,agenda[dias][horas];
+    int dmed0=0,dmed1=0,dmed2=0,dmed3=0,dmed4=0,dmed5=0,dmed6=0,dmed7=0,dmed8=0,dmed9=0;
+    int med0=0,med1=0,med2=0,med3=0,med4=0,med5=0,med6=0,med7=0,med8=0,med9=0;
+  //ler agenda/matriz
+    for(i=0;i<dias;i++){
+        for(j=0;j<horas;j++){
+            scanf("%d",&agenda[i][j]);
+            if(agenda[i][j]==0) med0++;
+            if(agenda[i][j]==1) med1++;
+            if(agenda[i][j]==2) med2++;
+            if(agenda[i][j]==3) med3++;
+            if(agenda[i][j]==4) med4++;
+            if(agenda[i][j]==5) med5++;
+            if(agenda[i][j]==6) med6++;
+            if(agenda[i][j]==7) med7++;
+            if(agenda[i][j]==8) med8++;
+            if(agenda[i][j]==9) med9++; } }   
+  //ler dia especifico e volumes dos medicos neste dia
+    scanf("%d",&dia);
+    for(i=dia;i<=dia;i++){
+        for(j=0;j<horas;j++){
+            if(agenda[i][j]==0) dmed0++;
+            if(agenda[i][j]==1) dmed1++;
+            if(agenda[i][j]==2) dmed2++;
+            if(agenda[i][j]==3) dmed3++;
+            if(agenda[i][j]==4) dmed4++;
+            if(agenda[i][j]==5) dmed5++;
+            if(agenda[i][j]==6) dmed6++;
+            if(agenda[i][j]==7) dmed7++;
+            if(agenda[i][j]==8) dmed8++;
+            if(agenda[i][j]==9) dmed9++; } }
+  //imprimir
+    printf("---Agenda gerada---");
+    for(i=0;i<dias;i++){
+        printf("\n");
+        for(j=0;j<horas;j++){
+            printf("%d ",agenda[i][j]); } }
+  
+    printf("\n\nTotal de vagas: %d",med0);
+    printf("\nTotal de vagas para o ");
+    if(dia==0) printf("segunda");
+    if(dia==1) printf("terca");
+    if(dia==2) printf("quarta");
+    if(dia==3) printf("quinta");
+    if(dia==4) printf("sexta");
+    if(dia==5) printf("sabado");  
+    printf(": %d",dmed0);
+    printf("\n------Total por especialidade------\n");
+    printf("Clinico geral : %d\n",med1);
+    printf("Odontopediatra : %d\n",med2);
+    printf("Ortodontista : %d\n",med3);
+    printf("Endodontista : %d\n",med4);
+    printf("Periodontista : %d\n",med5);
+    printf("Estomatologista : %d\n",med6);
+    printf("Protesista : %d\n",med7);
+    printf("Cirugiao bucomaxilofacial : %d\n",med8);
+    printf("Dentistica Restauradora : %d\n",med9);
+    printf("-----------------------------------");
+    printf("\n--Volume por especialidade no ");
+    if(dia==0) printf("segunda");
+    if(dia==1) printf("terca");
+    if(dia==2) printf("quarta");
+    if(dia==3) printf("quinta");
+    if(dia==4) printf("sexta");
+    if(dia==5) printf("sabado"); 
+    printf("--\n");
+    printf("Clinico geral : %d\n",dmed1);
+    printf("Odontopediatra : %d\n",dmed2);
+    printf("Ortodontista : %d\n",dmed3);
+    printf("Endodontista : %d\n",dmed4);
+    printf("Periodontista : %d\n",dmed5);
+    printf("Estomatologista : %d\n",dmed6);
+    printf("Protesista : %d\n",dmed7);
+    printf("Cirugiao bucomaxilofacial : %d\n",dmed8);
+    printf("Dentistica Restauradora : %d\n",dmed9);
+    printf("-----------------------------------");
+    return 0;
+}
+

@@ -1,0 +1,17 @@
+#include <stdio.h>
+
+int soma(int numero,int somar){
+  if(numero%10==0) return somar;
+  else{
+    somar += numero%10;
+    return soma(numero/10,somar);
+  }
+}
+
+int main(void) {
+  int n,s=0;
+  scanf("%d",&n);
+  printf("%d", soma(n,s));
+  return 0;
+}
+

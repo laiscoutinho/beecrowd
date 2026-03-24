@@ -1,0 +1,47 @@
+#include <stdio.h>
+#include <stdlib.h>
+//prencher
+void alocacao(int *vetor,int n){
+  int soma=0;
+  for(int i=0;i<n;i++){
+    scanf("%d",&vetor[i]);
+  }
+}
+
+void impsoma(int soma){
+  printf("Soma\t\t");
+  printf("%d\t\t",soma);
+  for(int h=0;h<soma;h++){
+    printf("*");
+  }
+}
+
+//Imprimir
+void imprimir( int *vetor,int n,int soma){
+  char letras[] = {'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M',
+                  'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'};
+  for(int i=0;i<n;i++){
+    printf("%c\t\t", letras[i]);
+    printf("%d\t\t",vetor[i]);
+    for(int j=0;j<vetor[i];j++){
+        printf("*");
+    }
+    soma+=vetor[i];
+    printf("\n");
+  }
+  impsoma(soma);
+}
+
+//Função main
+int main(void) {
+  int n,soma=0;
+  int *vetor;
+  scanf("%d",&n);
+  vetor = (int *)malloc(n*sizeof(int));
+  //alocando vetor
+  alocacao(vetor,n);
+  //imprimir vetor
+  imprimir(vetor,n,soma);
+  free(vetor);
+  return 0; 
+}
